@@ -1,1 +1,1 @@
-This line is edited by Student B
+This git lab is created by Student B
